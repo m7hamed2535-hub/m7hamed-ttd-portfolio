@@ -1,0 +1,11 @@
+M7hamed TTD portfolio — GitHub Pages gallery update
+
+Upload/replace these files in the ROOT of your GitHub repository:
+- index.html (replace the existing homepage)
+- work1.jpg through work6.jpg
+
+Do not delete portrait.jpg. Keep it beside index.html because the homepage uses it.
+The gallery has been updated to show the six artworks supplied. You do not need work7.jpg,
+work8.jpg or work9.jpg for this version.
+
+After uploading, wait for GitHub Pages to deploy, then refresh the site.
